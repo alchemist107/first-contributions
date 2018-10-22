@@ -14,6 +14,7 @@
 - Aldo Paul Carranza - Hitzoft
 - [Somit Mittal](https://github.com/somitmittal)
 - [Raghav Prasad](https://github.com/raghavprasad13)
+- [Bouzaiene Chamsddine](https://github.com/alchemist107)
 - [hamit taylan yuce] (https://github.com/htaylanyuce)
 - [Sumit Singh] (https://github.com/sumit9696)
 - [daniel hemmati](https://github.com/danielhemmati)
